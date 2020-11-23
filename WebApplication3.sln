@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30517.126
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication3", "WebApplication3\WebApplication3.csproj", "{40902B75-7775-4195-874F-8833BA745D54}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QlyKFC-CNPM", "WebApplication3\QlyKFC-CNPM.csproj", "{40902B75-7775-4195-874F-8833BA745D54}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
